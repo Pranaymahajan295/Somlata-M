@@ -106,7 +106,7 @@ body {
 /* ====== HERO SECTION ====== */
 .hero {
   height: 100vh;
-  background: url("../Assets/images/Somlataa.jpg");
+  background: url("https://scontent.fnag9-1.fna.fbcdn.net/v/t39.30808-6/469088159_122196418142230333_5145586165003846536_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lEQC-MCZ3u0Q7kNvwHVPnxv&_nc_oc=Adnf5YYudc4b3bIx6GJp7AHm4T8KWa7rRMv8I-AuqXVs7A9SOh5dAtOTGeuqeTG4WjI&_nc_zt=23&_nc_ht=scontent.fnag9-1.fna&_nc_gid=pkhlbx0nTkQdUktBjBysvA&oh=00_AfXF57E-G-bFB6HugrIIPqT22GEpZ9GSDBI-AYcy57Rghg&oe=68A084FF");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
