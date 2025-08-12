@@ -1,9 +1,6 @@
-// Gallery Interactive Script for Somlata Makeover
 document.addEventListener('DOMContentLoaded', function() {
-    // Gallery functionality
     const galleryItems = document.querySelectorAll('.gallery-item');
     const body = document.body;
-    // Create lightbox modal
     const lightbox = document.createElement('div');
     lightbox.className = 'lightbox-modal';
     lightbox.innerHTML = `
